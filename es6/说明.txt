@@ -1,0 +1,3 @@
+﻿1.npm install 初始化项目依赖
+2.  .babelrc文件是ES6转码解析文件,里面还有一个插件plugin配置ES6语法支持,忘记了,后面补上
+3.依赖都是在开发时依赖上devDependencies
